@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Android Development
-- - 📫 How to reach me: https://www.linkedin.com/in/abhayasood/
+- 📫 How to reach me: https://www.linkedin.com/in/abhayasood/
